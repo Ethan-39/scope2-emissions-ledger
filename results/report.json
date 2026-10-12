@@ -1,0 +1,36 @@
+{
+  "project": "scope2-emissions-ledger",
+  "data_kind": "synthetic",
+  "seed": 39,
+  "activity_rows": 12,
+  "factor_unit": "kg CO2e per kWh",
+  "totals_kg_co2e": {
+    "location-based": 189688.8714,
+    "market-based": 52896.0292
+  },
+  "totals_t_co2e": {
+    "location-based": 189.688871,
+    "market-based": 52.896029
+  },
+  "facility_totals_kg_co2e": {
+    "biology_lab": {
+      "location-based": 54529.8222,
+      "market-based": 19245.8196
+    },
+    "campus": {
+      "location-based": 78338.4278,
+      "market-based": 20436.1116
+    },
+    "library": {
+      "location-based": 56820.6214,
+      "market-based": 13214.098
+    }
+  },
+  "market_minus_location_kg_co2e": -136792.8422,
+  "factor_status": "all factors are placeholders for demonstration; replace and document sources before any real accounting",
+  "limitations": [
+    "Electricity use and factors are synthetic or illustrative placeholders, not sourced inventory inputs.",
+    "No contractual instrument quality, supplier evidence, residual mix, grid region, or factor vintage is validated.",
+    "This teaching ledger is not a compliance assessment or a reportable greenhouse-gas inventory."
+  ]
+}

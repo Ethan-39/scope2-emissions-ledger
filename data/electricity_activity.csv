@@ -1,0 +1,13 @@
+period,facility,electricity_kwh,location_factor_kg_co2e_per_kwh,market_factor_kg_co2e_per_kwh,factor_source,data_kind
+2026-Q1,campus,41025.10,0.4600,0.1200,illustrative_placeholder_not_a_published_factor,synthetic
+2026-Q2,campus,44111.83,0.4600,0.1200,illustrative_placeholder_not_a_published_factor,synthetic
+2026-Q3,campus,38516.88,0.4600,0.1200,illustrative_placeholder_not_a_published_factor,synthetic
+2026-Q4,campus,46647.12,0.4600,0.1200,illustrative_placeholder_not_a_published_factor,synthetic
+2026-Q1,biology_lab,26170.58,0.5100,0.1800,illustrative_placeholder_not_a_published_factor,synthetic
+2026-Q2,biology_lab,27924.38,0.5100,0.1800,illustrative_placeholder_not_a_published_factor,synthetic
+2026-Q3,biology_lab,23997.22,0.5100,0.1800,illustrative_placeholder_not_a_published_factor,synthetic
+2026-Q4,biology_lab,28829.04,0.5100,0.1800,illustrative_placeholder_not_a_published_factor,synthetic
+2026-Q1,library,31098.50,0.4300,0.1000,illustrative_placeholder_not_a_published_factor,synthetic
+2026-Q2,library,34687.01,0.4300,0.1000,illustrative_placeholder_not_a_published_factor,synthetic
+2026-Q3,library,29510.33,0.4300,0.1000,illustrative_placeholder_not_a_published_factor,synthetic
+2026-Q4,library,36845.14,0.4300,0.1000,illustrative_placeholder_not_a_published_factor,synthetic
